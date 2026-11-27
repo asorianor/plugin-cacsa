@@ -1,0 +1,14 @@
+{
+  "name": "equipo",
+  "description": "Plugins de Claude Code del equipo de desarrollo",
+  "owner": {
+    "name": "Equipo de desarrollo"
+  },
+  "plugins": [
+    {
+      "name": "flujo-git",
+      "source": "./plugins/flujo-git",
+      "description": "Flujo de git del equipo en GitHub: ramas, commits con Conventional Commits y pull requests"
+    }
+  ]
+}

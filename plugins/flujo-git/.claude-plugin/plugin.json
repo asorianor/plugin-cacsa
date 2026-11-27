@@ -1,0 +1,8 @@
+{
+  "name": "flujo-git",
+  "version": "1.0.0",
+  "description": "Flujo de git del equipo en GitHub: ramas, commits con Conventional Commits y pull requests",
+  "author": {
+    "name": "Equipo de desarrollo"
+  }
+}
